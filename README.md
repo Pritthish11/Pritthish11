@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pritthish11
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on big companies
+- 🌱 I’m currently learning Java, cpp, python, and ai usage. 
 - 📫 How to reach me contact pritthishbiswas090411@gmail.com 
 
 <!---
